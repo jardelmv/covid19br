@@ -17,3 +17,6 @@ Dois grupos de municípios foram criados com linha de separação em 50% de voto
 O indicador de mortes por milhão de todos os municípios e dos dois Grupos é atualizado a cada dia, gerando 465 frames que compuseram o vídeo.
  
 ![image](https://user-images.githubusercontent.com/1844605/120871735-df67d680-c572-11eb-84b5-24d6a416d48b.png)
+
+https://user-images.githubusercontent.com/1844605/120874611-e3e5bc80-c57d-11eb-9573-5c947aa3abd3.mp4
+
